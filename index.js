@@ -7,7 +7,7 @@ import PushNotification from 'react-native-push-notification';
 import AppLovinMAX from 'react-native-applovin-max';
 
 AppLovinMAX.initialize(
-  'masP3E71VyOUPooH0hZfzrb2U2a5EobZdLcnCqrRz9eTWmAHt9EG0nBAIDMVT_hTTfCsRX93OInzJNb62_TDSP',
+  'hashString',
   configuration => {},
 );
 

@@ -1,9 +1,10 @@
 # IMPORTANT NOTE
 
+- This code is NOT MEANT to function, compile or run.
 - This code is simply here to showcase my React Native and React skills and style.
 - As you can see, I use hooks as I find them capable of doing more than classes.
-- I also place the screen UI code and screen state code in different files to ensure a seperation od concerns.
-- I place state code in a custom screen state hook which I then import into the screen hook so that state and UI are completely seperate.
+- I also place the screen UI code and screen state code in different files to ensure a separation od concerns.
+- I place state code in a custom screen state hook which I then import into the screen hook so that state and UI are completely separate.
 
 ### Clean Architecture
 
